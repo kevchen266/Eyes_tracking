@@ -1,3 +1,7 @@
-Django==4.0
-djangorestframework==3.12.4
-opencv-python==4.10.0.84
+django
+channels
+channels-redis
+opencv-python
+websockets
+daphne
+numpy
