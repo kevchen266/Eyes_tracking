@@ -49,7 +49,7 @@ To start the server using Daphne:
 ## Testing the Calibration Stage
 ```sh
     cd eye_tracking_project/calibration/scripts
-    ython test_websocket_imagecrop.py
+    python test_websocket_imagecrop.py
 ```
 ## Testing the Prediction Stage
 ```sh
