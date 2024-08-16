@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/raw_test.mp4.flat",
+        "source": "com.example.eyetracking.app-main-52:/raw/test.mp4"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/layout_exit.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/layout/exit.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/layout_calibrationreddot.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/layout/calibrationreddot.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_drawable_shape_7.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/drawable_shape_7.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_drawable_image.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/drawable_image.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_container_agreement.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/container_agreement.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.eyetracking.app-main-52:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_container_export_data.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/container_export_data.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_oval_background.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/oval_background.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_img_rectangle_export.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/img_rectangle_export.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_drawable_shape_4.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/drawable_shape_4.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_container_calibration.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/container_calibration.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/layout_videochoose.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/layout/videochoose.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_image_rectangle1.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/image_rectangle1.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_container_calibration_tr.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/container_calibration_tr.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_image_play.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/image_play.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_container_exit.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/container_exit.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_image_exit_rectangle.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/image_exit_rectangle.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_image_mask_group1.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/image_mask_group1.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_red_circle.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/red_circle.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.eyetracking.app-main-52:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_image_group.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/image_group.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_drawable_image_3.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/drawable_image_3.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_container_video_choose1.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/container_video_choose1.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/layout_agreement.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/layout/agreement.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_img_rectangle.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/img_rectangle.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_container_statusbar.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/container_statusbar.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_drawable_shape_1.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/drawable_shape_1.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/layout_calibrationdirector.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/layout/calibrationdirector.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_image_battery.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/image_battery.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_image_signal.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/image_signal.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_image_rectangle2.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/image_rectangle2.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_container_calibration_tl.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/container_calibration_tl.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_container_exit1.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/container_exit1.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_image_wifi.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/image_wifi.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.eyetracking.app-main-52:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_image_frame.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/image_frame.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_container_calibration_b_l.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/container_calibration_b_l.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/layout_gender.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/layout/gender.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/layout_instruction.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/layout/instruction.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_container_continue.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/container_continue.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_image_mask_group.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/image_mask_group.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/layout_videoplay.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/layout/videoplay.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_drawable_shape.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/drawable_shape.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/layout_activity_main.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_container_calibration_br.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/container_calibration_br.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_drawble_shape.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/drawble_shape.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/layout_start.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/layout/start.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.eyetracking.app-main-52:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_image_rectangle_continue.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/image_rectangle_continue.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_drawable_shape_5.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/drawable_shape_5.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/navigation_nav_graph.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_image_ellipse.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/image_ellipse.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_drawable_shape_2.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/drawable_shape_2.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_container_data_outputs.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/container_data_outputs.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/layout_dataoutput.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/layout/dataoutput.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_drawable_image_1.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/drawable_image_1.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_container_video_playing_page.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/container_video_playing_page.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.eyetracking.app-main-52:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/xml_backup_rules.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/layout_calibration.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/layout/calibration.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_image_rectangle.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/image_rectangle.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_image_ellipse1.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/image_ellipse1.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.eyetracking.app-main-52:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_drawable_shape_6.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/drawable_shape_6.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.eyetracking.app-main-52:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_container_fi_rr_arrow_small_left.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/container_fi_rr_arrow_small_left.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_image_rectangle_exit.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/image_rectangle_exit.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.eyetracking.app-main-52:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_container_component.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/container_component.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.eyetracking.app-main-52:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.eyetracking.app-main-52:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_container_start.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/container_start.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_drawable_image_2.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/drawable_image_2.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_instructions.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/instructions.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_container_frame.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/container_frame.xml"
+    },
+    {
+        "merged": "com.example.eyetracking.app-merged_res-50:/drawable_drawable_shape_3.xml.flat",
+        "source": "com.example.eyetracking.app-main-52:/drawable/drawable_shape_3.xml"
+    }
+]

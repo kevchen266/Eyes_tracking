@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gender_options">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Transgender</item>
+    </string-array>
+    <string-array name="video_options">
+        <item>Video 1</item>
+        <item>Video 2</item>
+        <item>Video 3</item>
+        <item>Video 4</item>
+        <item>Video 5</item>
+        <item>Video 6</item>
+        <item>Video 7</item>
+        <item>Video 8</item>
+        <item>Video 9</item>
+        <item>Video 10</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="spinner_prompt">Choose a video</string>
+    <style name="Base.Theme.EyeTracking" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.EyeTracking" parent="Base.Theme.EyeTracking"/>
+</resources>
