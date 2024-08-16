@@ -43,8 +43,7 @@
 To start the server using Daphne:
 
 ```sh
-    daphne -p 8000 eye_tracking_project.asgi:application
-```
+      daphne -p 8000 -b 0.0.0.0 eye_tracking_project.asgi:application  
 
 ## Testing the Calibration Stage
 ```sh
