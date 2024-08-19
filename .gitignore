@@ -2,4 +2,4 @@
 myenv/
 
 # Ignore the images folder
-images/
+images/.DS_Store
